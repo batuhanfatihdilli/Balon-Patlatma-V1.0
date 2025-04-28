@@ -1,0 +1,14 @@
+{
+  "dependencies": [
+    {
+      "group": "com.android.support",
+      "name": "support-v4",
+      "version": "28.0.0"
+    },
+    {
+      "group": "com.google.firebase",
+      "name": "firebase-core",
+      "version": "17.2.0"
+    }
+  ]
+}
