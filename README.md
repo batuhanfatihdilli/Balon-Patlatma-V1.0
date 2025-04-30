@@ -1,6 +1,6 @@
 <div align="center">
 
-# Tower Up: Memo – 2D platformer | Unity, C#
+# Balon Patlatma V1.0 – 2D balloon shooter | Unity, C#
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)<br>
 
 
@@ -31,7 +31,7 @@
 
 - I developed this prototype using Unity and C#.
 - I implemented balloon popping animations.
-- Rigidbody2D for balloon movement and collision detection
-- Free assets 
+- Rigidbody2D for balloon movement and collision detection.
+- Used free assets. 
 
 
