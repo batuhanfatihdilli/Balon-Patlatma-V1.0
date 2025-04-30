@@ -21,10 +21,11 @@
 
 
 <div align="center" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; max-width: 420px; margin: auto;">
-  <img src="https://i.imgur.com/9jE1Pu2.png" alt="Image 1" style="width: 200px; aspect-ratio: 1 / 1; object-fit: cover;">
-  <img src="https://i.imgur.com/bTmj1t0.png" alt="Image 2" style="width: 200px; aspect-ratio: 1 / 1; object-fit: cover;">
-  <img src="https://i.imgur.com/FK8e79e.png" alt="Image 3" style="width: 200px; aspect-ratio: 1 / 1; object-fit: cover;">
+  <img src="https://i.imgur.com/wVl9qBi.png" alt="Image 1" style="width: 200px; aspect-ratio: 1 / 1; object-fit: cover;">
+  <img src="https://i.imgur.com/V7fPSb0.png" alt="Image 2" style="width: 200px; aspect-ratio: 1 / 1; object-fit: cover;">
+  <img src="https://i.imgur.com/5ijsF46.png" alt="Image 3" style="width: 200px; aspect-ratio: 1 / 1; object-fit: cover;">
 </div>
+
 
 ## Used Technologies
 
